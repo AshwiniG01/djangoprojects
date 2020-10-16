@@ -1,0 +1,13 @@
+#c1{
+	color:orange;
+	background-color: black;
+}
+#c2{
+	color:black;
+	background-color: orange;
+}
+img
+{
+	max-width: 50px;
+	max-height: 50px;
+}
